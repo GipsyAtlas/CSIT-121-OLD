@@ -1,0 +1,27 @@
+body {
+    background-color:rgb(0, 0, 0);
+    background-image: url(image/FCS2.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+h1 {
+    color: #afc0ee;
+    font-size: 2cm;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 17.5cm;
+    margin-right: 17.4cm;
+    background-color: rgb(36, 36, 68);
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px rgb(51, 16, 145)
+
+}
+
+.FCS1 {
+    margin-left: 40%;
+    margin-top: 14%;
+    border-radius: 30px;
+    box-shadow: 10px 10px 10px rgb(51, 16, 145)
+}

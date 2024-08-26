@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+
+p {
+    color: rgb(247, 0, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: larger;
+    margin: 1cm;
+    text-transform: capitalize;
+}
+
+h1 {
+    color: rgb(0, 174, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2 {
+    color: rgb(0, 174, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+    color: rgb(0, 162, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li {
+    color: rgb(224, 255, 47);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+a {
+    color: aqua;
+}

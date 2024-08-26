@@ -1,0 +1,38 @@
+body {
+    background-image: url(Images/Flash0.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100%;
+    background-color: black;
+}
+
+table {
+    margin-left: 28cm;
+    margin-top: 16cm;
+    background-color: black;
+    box-shadow: 10px 10px 10px orange;
+    border-radius: 14px;
+}
+
+th {
+    font-size: 25px;
+    color: white;
+}
+
+td {
+    font-size: 25px;
+    color: white;
+}
+
+table, th, td {
+    border: 2px solid red;
+}
+
+a:hover {
+    color: orange;
+}
+
+a:visited {
+    color: red;
+}
